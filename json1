@@ -1,0 +1,25 @@
+{
+    "name": "Halo",
+    "genre" : "shooter",
+    "targets": {
+      "likes": ["planes", "tanks"],
+      "dislikes": ["aliens"]
+    }
+  },
+  {
+    "name": "Final Fantasy",
+    "genre" : "rpg",
+    "targets": {
+      "likes": ["magic", "potions"],
+      "dislikes": ["evil rulers"]
+    }
+  },
+  {
+    "name": "Call of Duty",
+    "genre" : "shooter",
+    "targets": {
+      "likes": ["guns"],
+      "dislikes": ["dictators"]
+    }
+  }
+]
